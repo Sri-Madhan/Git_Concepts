@@ -52,9 +52,8 @@ Just go to your home folder, or wherever you like to put your projects. You don'
 
 Now we want to grab a _Remote Repository_ and put what's in it onto your machine. 
 
-I'd suggest we use this one ([https://github.com/Sri-Madhan/Git_Concepts.git](https://github.com/UnseenWizzard/git_training.git) if you're not already reading this on github).
 
-> To do that I can use `git clone https://github.com/Sri-Madhan/Git_Concepts.git`
+> To do that I can use `git clone https://github.com/{USERNAME}/{REPO NAME}.git`
 
 > But as following this tutorial will need you to get the changes you make in your _Dev Environment_ back to the _Remote Repository_, and github doesn't just allow anyone to do that to anyone's repo, you'll best create a _fork_ of it right now. There's a button to do that on the top right of this page. 
 
