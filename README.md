@@ -38,7 +38,7 @@ Let's get started!
 
 In the picture below you see four boxes. One of them stands alone, while the other three are grouped together in what I'll call your _Development Environment_. 
 
-![ScreenShot](https://github.com/Sri-Madhan/Git_Concepts/blob/33cd3086bea8e568ebfe604071f14dce807877db/img/components.png)
+![ScreenShot](img/clone.png)
 
 We'll start with the one that's on its own though. The _Remote Repository_ is where you send your changes when you want to share them with other people, and where you get their changes from. If you've used other version control systems there's nothing interesting about that. 
 
